@@ -66,7 +66,7 @@ def submit():
     global team_file, original_row, team_name
     
     #Adds a new team to the doc
-    file = open("/Users/jonathan.oswald/Desktop/HS Programs/Documents/Teams.txt", "a")
+    file = open(os.path.join(os.path.dirname(__file__),"Documents/Teams.txt"), "a")
     file.write(str("\n" + entry_1.get() + " : " + entry_2.get()\
                    + " : " + str(entry_1.get() + ".txt") + " : " + str(0) + " : No"))
 
