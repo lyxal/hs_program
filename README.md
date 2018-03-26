@@ -1,15 +1,14 @@
 # hs_program
 This program helps scrutineers/manufacturers/ designers scrutineer their F1 in schools car
 
-How to Download:
-
+#How to Download:
 1) Make sure that IDLE/Python 3.x and Tkinter are installed
 2) Download all files included
 3) Run main.py
 
-Note: DO NOT EDIT CFD.py NOR screens.py! AND DO NOT CHANGE ANY FILES IN THE Documents FOLDER!
+*Note: DO NOT EDIT CFD.py NOR screens.py! AND DO NOT CHANGE ANY FILES IN THE Documents FOLDER!*
 
-How to Use:
+#How to Use:
 
 On the home page, you can either create a new team to check or load a pre-exisiting team. 
 
