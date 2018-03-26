@@ -1,0 +1,7 @@
+!Format
+$Team_Name : $Email : $File : $Index : $Emailed
+
+Example Car : jonathan.oswald@spcc.nsw.edu.au : Example Car.txt : 90 : Yes
+you boi : sd,mna : you boi.txt : 18 : No
+you boi : jsdlaksfa : you boi.txt : 2 : No
+me : jonathan.oswald@spcc.nsw.edu.au : me.txt : 90 : No

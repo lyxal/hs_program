@@ -1,0 +1,189 @@
+#This document contains all of the many criteria that will be judged at the comp
+
+!Format
+$Section : $Description : $Image_Location
+
+
+T2.4 : All submitted cars will be inspected closely to ensure that they are engineered and constructed safely for the purpose of racing. High importance is placed on ensuring that tether line guides are robust and secure. If the Judges rule any aspect of a team’s race cars to be unsafe for racing, the team will be required to make, repairs / modifications. Any such repair work WILL result in a penalty being applied. Teams are advised to check both the Technical and Competition Regulations for further advice. [Eligibility │10 Pt Penalty] : Parts
+
+T3.1.1 : All F1 in Schools cars MUST be designed and engineered using CAD (Computer Aided Design) and CAM (Computer Aided Manufacture) technology. CAD software used should provide for 3D part modelling, assembly and 3D realistic rendering. The CAM package should allow students to simulate CNC machining processes so they can show evidence of these in their portfolio. We recommend the use of DENFORD QuickCAM PRO software. ([Eligibility │10 Pt Penalty] applies only once for any 3.1.x) : NA
+
+T3.1.2 : The body of all F1 in Schools cars MUST be manufactured via material removal using a CNC router/ milling machine. We recommend all teams use a DENFORD CNC router. This manufacturing process should occur at your school/college or at a designated manufacturing centre/partner site. ([Eligibility │10 Pt Penalty] applies only once for any 3.1.x) : NA
+
+T3.1.3 : The race cars MUST have identically designed components and features (Not applicable to Cadet class) ([Eligibility │10 Pt Penalty] applies only once for any 3.1.x): NA
+
+T3.1.4 : Development Class Teams have two options as follows when manufacturing their cars on a CNC machine using only a 6mm diameter cutter. (T3.1.4.1 Side Machining = 1 x mirrored NC code, executed twice; OR T3.1.4.2 Top/Bottom Machining = 2 x NC codes executed once each.) ([Eligibility │10 Pt Penalty] applies only once for any 3.1.x): NA
+
+T3.1.5 : Cadet Class Teams MUST manufacture their car on a CNC machine using only a side machining process with 1 x mirrored NC code and a 6mm diameter cutter. ([Eligibility │10 Pt Penalty] applies only once for any 3.1.x): NA
+
+T3.1.6 : Development Class and Cadet Class Teams MAY machine axle and/or axle grommet holes by an additional hand or CNC process. ([Eligibility │10 Pt Penalty] applies only once for any 3.1.x): NA
+
+T3.1.7 : For Cadet Class Teams, no balsa wood or model foam parts are to be separately formed and glued to the main body.([Eligibility │10 Pt Penalty] applies only once for any 3.1.x) : NA
+
+T3.1.8 : Cadet Class Teams MUST use balsa or model foam as the default material for all non-rotating components of the car including the body, side pods and wings. No other materials are permitted. ([Eligibility │10 Pt Penalty] applies only once for any 3.1.x): NA
+
+T3.2 : The minimum width of any pointed feature of the car assembly MAY vary over the first 6mm of its length from its forward most extremity. Teams are advised to check ARTICLE T2.4 for further advice. T3.2.1 Minimum width at forward most extremity= 3mm or R1.5mm T3.2.2 Minimum width at 6mm back from forward most extremity= 6mm (N.B. 4pt penalty and eligibility) : NA
+
+T3.3.1 : All cars are expected to be finished to a high standard and MUST reflect the features of the documented CAD design. Features of the machined car other than machining scallops SHOULD NOT be removed. : NA
+
+T3.3.2 : All team cars MUST be assembled, painted and finished by team members only. Documented supporting evidence must be submitted with signed declaration. See also C2.4.1.5 in the Australian Competition Regulations (N.B. 10pt pen.) : NA
+
+T3.3.3 : Hand finishing of the car assembly is permitted. Refer ARTICLE T1.25. Maximum variation to CAD model - including Critical Regulation Rectification processes - is 3mm. : NA
+
+T3.4.1 : When teams submit Car A and B at event registration, a small, round, numbered and colour coded sticker will be applied to the underside of each car. This number will be unique for each team and colour coded for each class of the competition. Teams are NOT permitted to design and apply their own entry number stickers. : NA
+
+T3.4.2 : These sticker decals MUST be displayed on all cars at State and National Finals and will be supplied by REA at event check-in. Refer to T1.24 for more information. Each decal infringement attracts a 2pt penalty. (N.B. 2pt pen. each) : NA
+
+T3.4.3.1 : The REA Foundation Ltd., Department of Defence, Autodesk, Jetta Express and F1 in Schools sticker decals MUST maintain minimum dimensions of 30mm long and 15mm wide. Any trimming of decals will result in a 2pt penalty for each infringement. : Sticker Decal
+
+T3.4.3.3 : All remaining REA supplied corporate sticker decals MUST be clearly visible in the top or side view of the car. (N.B. 2pt pen. each) : NA
+
+T3.4.4 : If your region is supported by a sponsor, corresponding sponsor recognition MUST be included in displays, portfolio and on the car. : NA
+
+T3.5 : The car assembly MUST only consist of components listed in ARTICLE T1.6. [0.05 Time Penalty │4pt Penalty] : Parts
+
+T3.6 : The centre of gravity MUST remain between the axles with the canister inserted. [0.05 Time Penalty │4pt Penalty] : NA
+
+T3.7 : The overall length of the complete car measured between the front and rear extremes of the car product, including all components with the exception of the CO2 cylinder, MUST be a minimum of 170mm and a maximum of 210mm. [0.05 Time Penalty │4pt Penalty] : Length
+
+T3.8 : The overall width of the complete car product including all components MUST be a minimum of 60mm. [0.05 Time Penalty │4pt Penalty] : Width
+
+T3.9 : The minimum mass of the complete car product, without the CO2 cylinder fitted MUST be Cadet Class= 55 grams (T3.9.1) Development Class= 52 grams (T3.9.2) Professional Class= 52 grams (T3.9.3) [Ballast Penalty │4pt Penalty] : NA
+
+T3.10 : The track clearance measured normal from the track surface to the lowest point of the car product (excluding the wheel volumes) MUST be a minimum of 2mm including the tether line guides. Cars with unsafe arrangements will be ineligible to race if unresolved. [4pt Penalty] : Track Clear
+
+T3.11.1.1 : {Cadet Only} All balsa wood and model foam components for a completed car MUST be made from an REA supplied single standard balsa wood or model foam block as defined in these rules. [0.05 Time Penalty │4pt Penalty] : NA
+
+T3.11.1.2 : {Development / Professional only} Balsa wood or model foam is the default material for all non-rotating components of the car including the body and side pods. Other materials can only be used as explicitly specified. [0.05 Time Penalty │4pt Penalty] : NA
+
+T3.11.2 : Balsa wood and model foam components MUST be a minimum of 3mm thick. [1pt Penalty] : NA
+
+T3.12 : The car assembly MUST be designed so that no items other than those listed in ARTICLE T3.13, or CO2 cylinders are removed, replaced or added to the assembly during scheduled race events. [2pt Penalty] : NA
+
+T3.13 : Any spare / replacement components MUST be identical to those fitted to the car and MUST be submitted with the car. Only the following spare / replacement components are permitted... • rear wing / support structure – maximum of one (1) (Professional Class only) • front wing / support structure and / or nose cone – maximum of one (1) • wheel / wheel support system – maximum of two (2) wheels and components • tether line guides – maximum of one (1) car set (2 front and 2 rear if different). Replacement components must be identical in design and finish, and weigh no less than the race/back up car’s original component, whichever is heaviest. Submitted replacement components that are determined by the judges to not be identical to that which is fitted to the car will not be allowed to be used. [Eligibility] : NA
+
+T4.1 : A single, continuous piece of CNC manufactured balsa wood OR model foam material, deemed the body, MUST exist rear of the front axle centre line. The body begins at either the front axle centre line or at the boundary of the front wheel support and extends rearward. The body, encompasses the side pods, virtual cargo and CO2 cylinder chamber. [0.05 Time Penalty │4pt Penalty] : NA
+
+T4.2 : Implants, foreign objects or voids in or on the car body and side pods MUST NOT be incorporated [0.05 Time Penalty │4pt Penalty] : NA
+
+T4.3 : The overall width of the side pods measured transversely between the side-pod extremities MUST be a minimum of 50mm. Any part having a width less than 50mm is not considered a side pod. [1pt penalty] : Parts
+
+T4.4 : Each side pod MUST present a complete rectangular projected surface when viewed from the side measuring not less than 30mm wide x 15mm high. [1pt penalty] : Side Pod
+
+T4.5 : A virtual cargo MUST be completely encompassed by the body and be wholly positioned between the front and rear wheel centre lines. The virtual cargo MUST have minimum dimensions as shown below, with its top surface split symmetrical by the vertical reference plane of the car body. The virtual cargo MUST NOT be intersected by the FRONT wheel support system but MAY share common faces with the car body [0.05 Time Penalty │4pt Penalty] : Virtual
+
+T4.6 : The virtual cargo location and compliance MUST be clearly identified within the engineering drawings submitted for scrutineering judging [1pt pen.] : NA
+
+T4.7 : When viewed from the top, car body MUST NOT exist within a volume 15mm immediately rear of either front wheel. The volume width is equal to the wheel width, and height from track surface is equal to the wheel diameter. This is measured in the top view, parallel to the vertical reference plane and track surface. [0.05 Time Penalty │4pt Penalty] : Exclusion
+
+T5.1 : Professional Class and Development Class teams MAY manufacture the nosecone or parts thereof from separate, non-metallic materials. [Eligibility │10pt Penalty] : NA
+
+T5.2 : Alternative non-metallic materials forming the nosecone MUST NOT be present behind the centre line of the front axle. [1pt Penalty] : NA
+
+T6.1 : Both wing top surfaces MUST be 100% visible from the car top view. [1pt pen.] : Parts
+
+T6.2 : The surfaces defining both the front and rear wings MUST be identified clearly within the engineering drawings submitted for scrutineering judging. [1pt pen.] : Parts
+
+T6.3.1 : For a front wing to be deemed to exist, the wing surface MUST have a minimum of 3mm of clear ‘air’ space, to any other part of the car and track surface, measured normal from any part of the wing’s surface. [0.05 Time Penalty │4pt Penalty] : Wing Air
+
+T6.3.2 : For a rear wing to be deemed to exist, the wing surface MUST have a minimum of 3mm of clear ‘air’ space, to any other part of the car and track surface, measured normal from any part of the wing’s surface. [0.05 Time Penalty │4pt Penalty] : Wing Air
+
+T6.4 : The whole of the front wing and support structure when viewed from the side MUST be in front of the centre line of the front axle. [1pt Penalty] : Side Wing
+
+T6.5 : The wing span dimension MUST remain unchanged during races, i.e. wings must be rigid – ruled at the judge’s discretion. [2pt pen] : NA
+
+T6.6 : Visibility of the front wing MUST NOT be obstructed by any other component when viewed in the front elevation. [1pt Penalty] : Front View
+
+T6.7 : Professional Class and Development Class Teams MAY manufacture the front wing and any supporting structure connecting it to the nosecone from separate, non-metallic materials. [Eligibility │10pt Penalty] : NA
+
+T6.8 : The front wing or its support structure MUST be connected only to the nosecone. [1pt pen.] : NA
+
+T6.9.1 : (Relates to front wing span) Made from balsa wood or model foam= Min. 34mm (6.9.1.1) or Made from alternative material= Min. 40mm (6.9.1.2) [0.05 Time Penalty │4pt Penalty] : 6 9
+
+T6.9.2 : (Relates to back wing span) Made from balsa wood or model foam= Min. 34mm (6.9.2.1) or Made from alternative material= Min. 40mm (6.9.2.2) [0.05 Time Penalty │4pt Penalty] : 6 9
+
+T6.10 : The span of a wing can be intersected by the car body, nosecone or wing support structure to form span segments. All span segments MUST conform to the wing chord and thickness regulations. If intersected, at least two (2) of the front wing segments and two (2) of the rear wing segments must be no less than the minimum size in span. Minimum segment span= 17mm \t\t\t\tWing and Span Calculations Explained\t\t\t\tTo be included in the judge’s wing span calculation, a wing segment MUST be at least 17mm in span. If ANY of the segments A, B, C, D & E were less than 17mm, they would not qualify as wing segments, but would instead be treated as wing support structures. : Spans
+
+T6.11 : The wing chord requirements MUST be satisfied throughout the wing’s minimum span. The chord is the distance between the leading edge and trailing edge measured parallel to the vertical reference plane. (T6.11.1) Front wing chord - Min= 15mm [2pt Penalty](T6.11.2) Rear wing chord - Min= 15mm [2pt Penalty] : Chord Length
+
+T6.12 : The wing thickness requirements MUST be satisfied throughout the wing’s minimum span, measured perpendicular to the chord line. T6.12.1 Front wing thickness [2pt Penalty] T6.12.1.1 Made from balsa wood or model foam= Min= 3.5mm / Max= 9mm T6.12.1.2 Made from alternative material= Min= 1.5mm / Max= 9mm T6.12.2 Rear wing thickness [2pt Penalty] T6.12.2.1 Made from balsa wood or model foam= Min= 3.5mm / Max= 9mm T6.12.2.2 Made from alternative material= Min= 1.5mm / Max= 9mm : Wing Thickness
+
+T6.13 : The whole of the rear wing when viewed from the side MUST be behind the centre line of the rear axle. [1pt pen.] : Rear Wing Pos
+
+T6.14 : The bottom surface of the rear wing MUST be higher than 34mm when measured from and normal to the track surface. [0.05 Time Penalty │4pt Penalty] : Rear Wing Height
+
+T6.15 : Development Class teams MUST manufacture the rear wing and any supporting structure from balsa wood or model foam. [0.05 Time Penalty │4pt Penalty] : NA
+
+T6.16 : If Professional Class teams manufacture the rear wing and any supporting structure from separate, non-metallic materials, these materials MUST be completely contained behind the rear axle centre line. [0.05 Time Penalty │4pt Penalty] : Parts
+
+T7.1 : The car assembly MUST include 4 cylindrical wheels, two at the front and two at the rear. The two front wheels MUST share a common centerline. The two back wheels MUST share a common centerline. [0.05 Time Penalty │4pt Penalty] : NA
+
+T7.2.1 : Development and Cadet Class Teams MUST use any combination of four (4) unmodified REA standard wheels. No other parts can be added to the wheels. Removal of the sprue remnant is acceptable. [0.05 Time Penalty │4pt Penalty] : NA
+
+T7.2.2 : Professional Class Teams MAY use any combination of four (4) unmodified REA standard wheels or manufacture their own. The wheel material used is unrestricted. (NOTE. Modified REA Standard Wheels are classified team manufactured.) : NA
+
+T7.3.1 : The front wheel diameter for “team manufactured wheels” as measured to the extreme outer edges of each wheel MUST be a minimum of 26mm. [0.05 Time Penalty │4pt Penalty] : Wheels
+
+T7.3.2 : The rear wheel diameter for “team manufactured wheels” as measured to the extreme outer edges of each wheel MUST be a minimum of 26mm. [0.05 Time Penalty │4pt Penalty] : Wheels
+
+T7.4.1 : The front wheel track contact width for “team manufactured wheels” as measured between the extreme outer edges along the contiguous contact line of each wheel MUST be a minimum of 15mm. [0.05 Time Penalty │4pt Penalty] : NA
+
+T7.4.2 : The rear wheel track contact width for “team manufactured wheels” as measured between the extreme outer edges along the contiguous contact line of each wheel MUST be a minimum of 15mm. [0.05 Time Penalty │4pt Penalty] : NA
+
+T7.5 : With a CO2 cylinder loaded, all 4 wheels MUST touch the racing surface at the same time across the full contact width of the wheel (zero tolerance). That is, there MUST be no “camber”. (Tested using the thickness of a strip of 80gsm paper on a flat surface.). [2pt Penalty] : NA
+
+T7.6 : Wheel dimensions MUST be consistent in diameter and circumference across the contact width of the wheel (i.e., “tyre tread” is not allowed) [2pt Penalty] : NA
+
+T7.7 : The track contact surface of all four wheels MUST rotate freely about their own centre axis to facilitate motion of the car during racing. A car must be able to roll unassisted from a standing start down a straight ramp surface angled at 10 degrees from the horizontal for a minimum distance of 500 mm. Sliding or skidding motion of any wheel is not permitted and ALL wheels must freely rotate for the full distance. [0.05 Time Penalty │4pt Penalty] : NA
+
+T7.8 : Visibility of the front wheels in the car’s front view MUST only be obstructed to a height of 15mm from the track [0.05 Time Penalty │4pt Penalty] : Visibility Front
+
+T7.9 : The view of the wheels MUST NOT be obscured in any way, by any component of the car, in the car’s top, bottom and side elevation views. A minimum of a 1mm vertical exclusion zone MUST be present in front of each wheel and behind each rear wheel and in the top view, the track surface MUST be visible immediately in front and behind the wheel width. [0.05 Time Penalty │4pt Penalty] : Visibility Other
+
+T8.1 : The wheel support system MUST be fully contained within the volume of the cylinder formed by the projection of the wheel circumference (from the side view). [2pt Penalty] : Wheel Support
+
+T8.2 : Wheel support systems MUST not be integrated with wing support systems. [2pt Penalty] : NA
+
+T8.3 : Development and Cadet Class Teams MUST use four (4) unmodified REA axle grommets. [2pt Penalty] : NA
+
+T8.4.1 : Development Class Teams MUST use two (2) REA standard axles (3.175mm) OR axles from a different material with a minimum 3mm diameter. [2pt Penalty] : NA
+
+T8.4.2 : Cadet Class Teams MUST use two (2) standard brass axles (3.175mm) supplied by REA. No other axle material can be used. [2pt Penalty] : NA
+
+T8.5.1 : Development and Cadet Class Teams MUST NOT use any other parts or make any other modifications to the wheel support system. [2pt Penalty] : NA
+
+T8.5.2 : Professional Class teams MAY manufacture their own wheel support system and the wheel support system materials are unrestricted. : NA
+
+T9.1 : Each car MUST have 2 (essentially circular) tether line guides firmly secured toward the front and rear of the car, located on the underside along the car body centre line. The track tether line passes through these two tether line guides. An adhesive MAY be used to help secure the tether line guides. [1 Pt Penalty] : Parts
+
+T9.2 : The longitudinal separation of the tether line guides as measured between the outside edges of the guides MUST be a minimum of 120mm. [1pt Penalty] : Guide Bottom
+
+T9.3 : The inside diameter of the tether line guide (referring to the size of the hole) MUST be a minimum of 3mm [2 Pt Penalty] : Zoomed Guide
+
+T9.4.1 : The tether line guides MUST be closed to prevent the tether line from coming out of the tether line guide. This is considered a safety issue. Cars WILL be ineligible to race if unresolved. [Eligibility │4 Pt Penalty] : NA
+
+T9.4.2 : Tether guide arrangements with sharp edges WILL be prevented from racing. [Eligibility │4 Pt Penalty] : NA
+
+T9.4.3 : Adequate strength and fixing of the tether line guides MUST be considered a safety issue and cars with unsafe arrangements will be ineligible to race if unresolved. The guides must be robust so as to prevent the diameter or shape changing during racing. A tether line guide test will be conducted during scrutineering using a 200g mass (2.0N max) to check the guides are securely fitted to the car and safe to race. [Eligibility │4 Pt Penalty] : Guide Weights
+
+T9.5.1 : {Cadet Class Only} Cadet Class Teams MUST use the REA supplied Tether Line Guides. [1 Pt Penalty] : NA
+
+T9.5.2 : {Cadet Class Only} Cadet Class Teams MUST place Tether Line Guides within the 6mm x 6mm tether slot feature on the standard balsa or model foam block. [1 Pt Penalty] : NA
+
+T10.1 : The cylinders provide the car propulsion and all cars MUST interface directly with the standard track starting pod mechanism without the use of additional launch equipment. [Eligibility │20 Pt Penalty] : NA
+
+T10.2 : The CO2 cylinder chamber diameter MUST be 19mm (+/- 0.5mm) [1 Pt Penalty] : NA
+
+T10.3 : Depth of chamber measured parallel to the vertical reference plane anywhere around the chamber circumference from opening to chamber end MUST be a minimum 50mm and maximum 60mm. [1 Pt Penalty] : NA
+
+T10.4 : The vertical height of the lowest point of the CO2 cylinder chamber above the race track surface MUST be a minimum of 22mm for the Cadet Class and 20mm for Development and Professional Classes. [0.05 Time Penalty │4pt Penalty] : NA
+
+T10.5 : The CO2 cylinder chamber MUST be completely surrounded by balsa or model foam car body only. The chamber surrounds and connection to the car body will be accessed and if determined below the minimum thickness, may be considered a safety issue at the judge’s discretion. Minimum thickness is measured through any line of the chamber radius. IMPORTANT. The entire circumference and length of the cylinder chamber must not be punctured by any object. Min= 3mm [Eligibility │4 Pt Penalty] : Chamber
+
+T10.6 : Paint and other foreign materials MUST NOT be present inside the CO2 cylinder chamber. This is considered a measure of manufacturing quality control. [1 Pt Penalty] : NA
+
+T10.7 : The cylinder MUST be able to be inserted and withdrawn without removal and replacement of car parts. [0.05 Time Penalty │4pt Penalty] : NA
+
+
+
+
