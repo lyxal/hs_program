@@ -14,7 +14,7 @@ On the home page, you can either create a new team to check or load a pre-exisit
 
 If creating a new team, ensure that you place the correct email into the box
 
-Once you've selected or created a team, a series of regulations will show up on the screen, and you can either press the `Passed` button (if the car passes the regulation), the `Failed` button (if the car doesn't pass the regulation) or the `Not Applicable` butotn (e.g. if the regulation applies only to Cadet Class and the car is Senior Professional).
+Once you've selected or created a team, a series of regulations will show up on the screen, and you can either press the `Passed` button (if the car passes the regulation), the `Failed` button (if the car doesn't pass the regulation) or the `Not Applicable` button (e.g. if the regulation applies only to Cadet Class and the car is Senior Professional).
 
 If a car fails a test, you have to add a comment as to why the car failed.
 
