@@ -50,7 +50,7 @@ if __name__ == "__main__":
                  "Hotmail" : ["imap-mail.outlook.com", 993]}
         
         HOST = HOSTS[selected.get()]
-        SECURITY = str(random.randint(100_000, 999_999))
+        SECURITY = str(random.randint(100000, 999999))
 
         
         s = smtplib.SMTP(host=HOST[0], port=HOST[1])
